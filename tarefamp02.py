@@ -1,5 +1,8 @@
+#!/usr/bin/python3
+# -*- coding: utf-8 _-*-
+# author: Leandro Batista
+# e-mail: leandrobatistapereira98@gmail.com
 # DESENVOLVIMENTO DE INTERFACES GRAFICAS
-# coding: utf8
 
 from tkinter import *
 
