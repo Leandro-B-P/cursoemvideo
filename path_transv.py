@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# -*- encoding: utf-8 -*-
+# -*- coding: utf-8 -*-
 # author: Leandro Batista
 # e-mail: leandrobatistapereira98@gmail.com
 
