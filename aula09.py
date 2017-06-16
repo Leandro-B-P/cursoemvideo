@@ -1,3 +1,8 @@
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
+# author: Leandro Batista
+# e-mail: leandrobatistapereira98@gmail.com
+
 num = int(input('Digite um numero para ver sua tabuada: '))
 print('-' * 12)
 print('{} x {:2} = {}'.format(num, 1, num*1))

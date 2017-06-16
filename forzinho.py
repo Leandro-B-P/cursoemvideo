@@ -1,5 +1,8 @@
-#!/usr/bin/python
-# encoding: utf8
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
+# author: Leandro Batista
+# e-mail: leandrobatistapereira98@gmail.com
+
 hobbies = []
 
 for i in range(0, 3):
