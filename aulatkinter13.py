@@ -1,4 +1,8 @@
-# coding: utf8
+#!/usr/bin/python3
+# -*- coding: utf-8 _-*-
+# author: Leandro Batista
+# e-mail: leandrobatistapereira98@gmail.com
+
 from tkinter import *
 
 janela = Tk()
